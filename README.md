@@ -36,5 +36,5 @@ The aim of this project is to make it easier for the research of singing head/fa
 <span id = "16003">[Song2face] [Song2Face: Synthesizing Singing Facial Animation from Audio](https://dl.acm.org/doi/10.1145/3410700.3425435), `Siggraph 2020`.
 
 ## Open-source Projects
-There is no open-source project for singing head.
+There are no open-source projects for singing head.
 
